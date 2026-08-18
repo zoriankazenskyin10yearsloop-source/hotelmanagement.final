@@ -4,7 +4,7 @@
 using namespace std;
 
 // ============================================================
-// PART 1 (Member 1): Item Class & Menu Initialization
+// PART 1 ------(Nishant regmi)-------: Item Class & Menu Initialization
 // ============================================================
 class Item
 {
@@ -45,7 +45,7 @@ public:
 };
 
 // ============================================================
-// PART 2 (Member 2): Order Class
+// PART 2 -----(Deewakar Pokharel)------: Order Class
 // ============================================================
 class Order
 {
@@ -112,7 +112,7 @@ public:
 };
 
 // ============================================================
-// PART 1 continued: Restaurant Class - Menu Initialization
+// PART 1-----(Nishant Regmi)------ continued: Restaurant Class - Menu Initialization
 // ============================================================
 class Restaurant
 {
@@ -155,7 +155,7 @@ public:
     }
 
     // ============================================================
-    // PART 3 (Member 3): Taking Orders
+    // PART 3 ------(Komal Parajuli)---------: Taking Orders
     // ============================================================
     void takeOrder()
     {
@@ -248,7 +248,7 @@ public:
     }
 
     // ============================================================
-    // PART 4 (Member 4): Main Program & Sales Records
+    // PART 4 -----(Ankur Shumsher)-------: Main Program & Sales Records
     // ============================================================
     void run()
     {
@@ -313,7 +313,7 @@ public:
 };
 
 // ============================================================
-// PART 4 continued: main() function
+// PART 4 ------(Ankur shumsher)--------continued: main() function
 // ============================================================
 int main()
 {
